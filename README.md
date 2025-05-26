@@ -969,3 +969,4 @@ endmodule
 - https://www.vsdiat.com
 - https://github.com/kunalg123/sky130RTLDesignAndSynthesisWorkshop
 - https://openlane.readthedocs.io/en/latest/
+- https://github.com/niteshVLSI
